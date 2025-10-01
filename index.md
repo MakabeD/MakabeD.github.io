@@ -30,10 +30,7 @@ Creo firmemente que el software es una herramienta para transformar ideas en imp
 ## 📂 Proyectos destacados
 - [**Talento B**](https://github.com/MakabeD/Talento-b)  
   Proyecto académico de software con enfoque práctico en desarrollo y gestión.  
-- [**Proyecto 2**](https://github.com/tuusuario/proyecto2)  
-  *(Descripción breve — lo reemplazamos cuando tengas el link real)*  
-- [**Proyecto 3**](https://github.com/tuusuario/proyecto3)  
-  *(Descripción breve — lo reemplazamos cuando tengas el link real)*  
+
 
 ---
 
